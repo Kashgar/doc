@@ -10,7 +10,7 @@
   <version>1.0</version>
 
   <properties>
-    <spring.version>4.2.1.RELEASE</spring.version>
+    <spring.version>5.2.20.RELEASE</spring.version>
     <file-charset>UTF-8</file-charset>
     <jdk-version>1.8</jdk-version>
     <skip-test>true</skip-test>
